@@ -8,10 +8,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/NeoCoast/Semantic-UI-LESS.git"
+    "url": "git://github.com/jrynlds/Semantic-UI-LESS.git"
   },
   "bugs": {
-    "url": "https://github.com/NeoCoast/Semantic-UI/issues"
+    "url": "https://github.com/jrynlds/Semantic-UI/issues"
   },
   "dependencies": {
     "jquery": "x.*"
